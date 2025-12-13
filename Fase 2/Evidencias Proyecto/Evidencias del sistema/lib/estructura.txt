@@ -1,0 +1,52 @@
+Listado de rutas de carpetas para el volumen WinToHDD
+El n£mero de serie del volumen es 10C3-24A5
+C:.
+|   estructura.txt
+|   main.dart
+|   
++---core
+|       supabase_client.dart
+|       
++---data
+|       data_local.dart
+|       
++---models
+|       nota.dart
+|       recordatorio.dart
+|       rutina.dart
+|       
++---pages
+|   |   settings_page.dart
+|   |   
+|   +---auth
+|   |       login_page.dart
+|   |       register_page.dart
+|   |       
+|   +---home
+|   |       inicio_page.dart
+|   |       
+|   +---nota
+|   |       detalle_nota_page.dart
+|   |       form_nota_page.dart
+|   |       notas_page.dart
+|   |       
+|   +---recordatorio
+|   |       detalle_recordatorio_page.dart
+|   |       form_recordatorio_page.dart
+|   |       recordatorios_page.dart
+|   |       
+|   \---rutina
+|           detalle_rutina_page.dart
+|           form_rutina_page.dart
+|           rutinas_page.dart
+|           
++---services
+|       auth_service.dart
+|       notification_service.dart
+|       
++---test
+|       test_notificacion_page.dart
+|       
+\---widgets
+        card_item.dart
+        

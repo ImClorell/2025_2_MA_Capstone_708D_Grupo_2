@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "755831270984",
+    "project_id": "agendio-bf0af",
+    "storage_bucket": "agendio-bf0af.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755831270984:android:05c5668070f79eb86c727d",
+        "android_client_info": {
+          "package_name": "com.example.agendai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqU5Td_x0uFcRIsd0XOTBQndyPe0Fblbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
